@@ -1,0 +1,40 @@
+body{
+	background-color: gray;
+	
+}
+
+a{
+	text-decoration: none;
+	
+	
+}
+
+#title{
+	padding: 1px;
+	width:100%;
+	height:80px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-image: images/background.jpg;
+	
+}
+
+#slider{
+	padding-top:100px;
+	position: relative;
+	top: 300px;
+	
+
+
+}
+
+#home{
+	width:100;
+	height: 50;
+	border-radius: 20px;
+	position: relative;
+	top: 200px;
+	left:46%;
+	border: 1px solid black;
+}
+
